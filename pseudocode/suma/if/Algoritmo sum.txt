@@ -1,0 +1,11 @@
+Algoritmo sum
+	Escribir "Ingrese numero 1"
+	Leer number1
+	Escribir "Ingrese numero 2"
+	Leer number2
+	Escribir "Ingrese numero 3"
+	Leer number3
+	Escribir "El total de la suma es:" number1+number2+number3
+
+	
+FinAlgoritmo
