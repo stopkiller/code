@@ -1,0 +1,9 @@
+Algoritmo multiplication
+	multiplicador<-10
+	max<-100
+	Escribir "Esta tabla es del " multiplicador " hasta el " max
+	Para i<-multiplicador Hasta max Con Paso 1 Hacer
+		Escribir multiplicador " x " i " =" multiplicador*i
+	Fin Para
+	
+FinAlgoritmo

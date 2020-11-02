@@ -1,0 +1,10 @@
+Algoritmo rhombus
+	Escribir "Ingrese el diagonal mayor del rombo"
+	Leer majordiagonal
+	Escribir "Ingrese el diagonal menor del rombo"
+	Leer minordiagonal
+	Escribir "Ingrese el largo lado del rombo"
+	Leer long
+	Escribir "El �rea del rombo es :" majordiagonal*minordiagonal
+	Escribir "El per�metro del rombo es :" long+long+long+long
+FinAlgoritmo

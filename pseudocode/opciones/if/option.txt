@@ -1,0 +1,28 @@
+Algoritmo options
+	Escribir "tenemos los siguientes productos 1(papas),2(chcolates),3(bebida),4(hamburgesa),5(helado),6(galletas),7(pan),8(tomates),9(cereales),10(paracetamol)"
+	Escribir "Ingrece un número del 1 al 10"
+	Leer number
+	Segun number Hacer
+		1:
+			Escribir "papas su precio es $2000"
+		2:
+			Escribir "chocolates su precio es $1500"
+		3:
+			Escribir "bebidas su precio es de $500"
+		4:
+			Escribir "hamburgesa su precio es $800"
+		5:
+			Escribir "helado su precio es $2500"
+		6:
+			Escribir "galletas su precio es $435"
+		7:
+			Escribir "pan su precio es $1545"
+		8:
+			Escribir "tomate su precio es $790"
+		9:
+			Escribir "cereales su precio es $1500"
+		10:
+			Escribir "paracetamol su precio es $1800"
+	Fin Segun
+	
+FinAlgoritmo
