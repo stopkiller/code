@@ -1,0 +1,12 @@
+Algoritmo sin_titulo
+	multiplicacion<-10
+	max<-10
+	Escribir "tabla de multiplicar del " multiplicacion
+	Para i<-multiplicacion Hasta max Con Paso 1 Hacer
+		
+		Escribir multiplicacion " x" i " =" multiplicacion*i
+		Si i=max Entonces
+			Escribir "fin de la operación"
+		Fin Si
+	Fin Para
+FinAlgoritmo

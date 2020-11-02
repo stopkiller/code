@@ -1,0 +1,9 @@
+Algoritmo sin_titulo
+	Escribir "cara o cruz"
+	Leer face
+	Si face=="cara" Entonces
+		Escribir "Salio cara"
+	SiNo
+		Escribir "No salio cara"
+	Fin Si
+FinAlgoritmo

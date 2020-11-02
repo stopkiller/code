@@ -1,0 +1,15 @@
+Algoritmo multipli
+	Escribir "Ingrese numero 1"
+	Leer number1
+	Escribir "Ingrese numero 2"
+	Leer number2
+	Escribir "Ingrese numero 3"
+	Leer number3
+	Escribir "Ingrese numero 4"
+	Leer number4
+	Escribir "Ingrese numero 5"
+	Leer number5
+	Escribir "El total de la multiplicación es:" 
+	Escribir number1*number2*number3*number4*number5
+	
+FinAlgoritmo

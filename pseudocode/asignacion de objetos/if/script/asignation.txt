@@ -1,0 +1,45 @@
+Algoritmo option
+	Escribir lista_de_expresiones
+	potatoes<-5000
+	chocolate<-"$1700"
+	coke<-"$800"
+	hamburger<-"$300"
+	iceCream<-"$1500"
+	cookie<-"$635"
+	bread<-"$1545"
+	tomato<-"$700"
+	cereal<-"$1570"
+	paracetamol<-"$1809"
+	
+	priceUpgade=3000
+	
+	
+	Leer number
+	
+	Si number==1 Entonces
+		Escribir "El precio de papas sube a en " priceUpgade
+		potatoes<-potatoes+priceUpgade
+	Fin Si
+	Segun number Hacer
+		1:
+			Escribir "papas su precio es " potatoes
+		2:
+			Escribir "chocolates su precio es $1500"
+		3:
+			Escribir "bebidas su precio es de $500"
+		4:
+			Escribir "hamburgesa su precio es $800"
+		5:
+			Escribir "helado su precio es $2500"
+		6:
+			Escribir "galletas su precio es $435"
+		7:
+			Escribir "pan su precio es $1545"
+		8:
+			Escribir "tomate su precio es $790"
+		9:
+			Escribir "cereales su precio es $1500"
+		10:
+			Escribir "paracetamol su precio es $1800"
+	Fin Segun
+FinAlgoritmo

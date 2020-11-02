@@ -1,0 +1,9 @@
+Algoritmo rectangle
+	Escribir "Inserte la altura del rectàngulo"
+	Leer height
+	Escribir "Inserte la base del rectàngulo"
+	Leer base
+	Escribir "El àrea del rectangulo es de :" height*base
+	Escribir "El perìmetro del rectangulo es :" base+base+height+height
+
+FinAlgoritmo

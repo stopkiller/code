@@ -1,0 +1,1 @@
+Asignacion de valor u enumeracion de un objeto

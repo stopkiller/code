@@ -1,0 +1,9 @@
+Algoritmo circle
+	PIE<-3.14159
+	Escribir "Ingrese el di�metro del circulo"
+	Leer diameter
+	Escribir "Ingrese el radio del circulo"
+	Leer radio
+	Escribir "El �rea del circulo es :" PIE*radio^2
+	Escribir "El diametro del c�rculo es :" PIE+diameter
+FinAlgoritmo

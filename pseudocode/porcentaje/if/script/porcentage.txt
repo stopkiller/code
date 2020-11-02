@@ -1,0 +1,11 @@
+Algoritmo polygone
+	Escribir "Ingresa los lados"
+	Leer long 
+	Escribir "ingresa el largo de los dados"
+	Leer lades
+	Escribir "Ingresa el apotema"
+	Leer aphotems
+	c<-(long*lades*aphotems)/2
+	Escribir "El àrea del poligono es :" c
+	Escribir "El perìmetro del poligono es :"  
+FinAlgoritmo
